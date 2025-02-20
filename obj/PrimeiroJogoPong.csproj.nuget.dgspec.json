@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FIC\\source\\repos\\PrimeiroJogoPong\\PrimeiroJogoPong.csproj": {}
+    "C:\\Users\\FIC\\Downloads\\PrimeiroJogoPong\\PrimeiroJogoPong.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FIC\\source\\repos\\PrimeiroJogoPong\\PrimeiroJogoPong.csproj": {
+    "C:\\Users\\FIC\\Downloads\\PrimeiroJogoPong\\PrimeiroJogoPong.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FIC\\source\\repos\\PrimeiroJogoPong\\PrimeiroJogoPong.csproj",
+        "projectUniqueName": "C:\\Users\\FIC\\Downloads\\PrimeiroJogoPong\\PrimeiroJogoPong.csproj",
         "projectName": "PrimeiroJogoPong",
-        "projectPath": "C:\\Users\\FIC\\source\\repos\\PrimeiroJogoPong\\PrimeiroJogoPong.csproj",
+        "projectPath": "C:\\Users\\FIC\\Downloads\\PrimeiroJogoPong\\PrimeiroJogoPong.csproj",
         "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FIC\\source\\repos\\PrimeiroJogoPong\\obj\\",
+        "outputPath": "C:\\Users\\FIC\\Downloads\\PrimeiroJogoPong\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

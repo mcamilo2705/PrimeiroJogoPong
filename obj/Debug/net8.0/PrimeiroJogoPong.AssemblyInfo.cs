@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimeiroJogoPong")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db120aeaddc331552bc241ec6aaebb37fac8cdc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimeiroJogoPong")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimeiroJogoPong")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

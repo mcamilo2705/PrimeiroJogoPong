@@ -15,5 +15,6 @@ namespace PrimeiroJogoPong
         public static int largura = 640, altura = 400;
         //opcao de carregar objetos 2d
         public static Texture2D textura;
+        public static int pntuacao1, pntuacao2;
     }
 }
